@@ -3,7 +3,7 @@
 <p align="left">💻 Web Developer</p>
 <p align="left">🎮 Begginer Indie GameDev</p>
 <p align="left"><img width="20px" src="https://static.itch.io/images/itchio-textless-black.svg">[Itch.io](https://yxpfr.itch.io)<p align="left"></p>
-[teste]([url](https://yxpfr.itch.io)
+[teste](https://yxpfr.itch.io)
 
 
 
