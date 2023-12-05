@@ -2,12 +2,14 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunopstephan&layout=compact&theme=dark">
 
-
 - 💻 Developer for @Avantpro at university of Computer Science
 
-- 🎮 Making games for fun on [Itch.io <img width="20px" align="center" src="https://static.itch.io/images/itchio-textless-black.svg">](https://yxpfr.itch.io) 🐱‍👓
-
 - 😸 Enjoy the projects ^_^
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,php,html,css)](https://skillicons.dev)
+
 
 
 
