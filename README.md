@@ -9,6 +9,8 @@
 <br>
 <br>
 
+# Skills
+
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nestjs,nodejs,docker,linux,ubuntu,postgres,mysql,mongodb,js,php,laravel)](https://skillicons.dev)
 
 
